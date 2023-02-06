@@ -1,0 +1,11 @@
+5 types;
+
+1.single
+2.multiple
+3.hichracical
+4.hyrbid
+5.multiple
+extends keyword to connct the class
+
+
+
