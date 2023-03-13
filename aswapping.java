@@ -21,7 +21,7 @@ class swapp extends swap
         public static void main(String[] args) {
         System.out.println("Hello, World!"); 
        
-        swap js=new swapp();
+        swapp js=new swapp();
         js.swapp();
        
        

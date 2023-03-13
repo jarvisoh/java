@@ -6,10 +6,11 @@ public class GFG {
     {
         
         String str = "jothis for sam";
-        String[] arrOfStr = str.split(" ", 3);
+        String[] arrOfStr = str.split(" ");
   
-        for (String a : arrOfStr)
-            System.out.println(a);
+        for (int i=arrOfStr.length-1;i>=0;i--)
+        System.out.print(arrOfStr[i] +" ");
+           
             
 
     }

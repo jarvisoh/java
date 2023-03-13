@@ -9,3 +9,7 @@ extends keyword to connct the class
 
 
 
+find a duplicate word in a String
+reverse a word in java
+
+swapp 2 string without using temp
