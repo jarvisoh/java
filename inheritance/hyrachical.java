@@ -36,6 +36,7 @@ class js3{
         dog d=new dog();
         c.meow();
         c.eat();
+        c.eat();
         d.bark();
         t.tg();
 

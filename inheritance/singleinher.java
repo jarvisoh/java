@@ -1,7 +1,7 @@
 class animal
 {
     void eat(){
-
+int a=5;
     
     System.out.println("eating...");
 }
@@ -10,7 +10,7 @@ class animal
 class dog extends animal{
     void bark()
     {
-        System.out.println("barking..");
+        System.out.println("barking.."+a);
     }
 }
 
