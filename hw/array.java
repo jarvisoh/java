@@ -6,8 +6,8 @@ class jss{
         int sum=0;
         int c=0,d=0;
         int count=0;
-              int n=sc.nextInt();
-       int arr[]=new int[n];
+        int n=sc.nextInt();
+        int arr[]=new int[n];
  
        
        for(int i=0;i<n;i++)
@@ -25,7 +25,7 @@ class jss{
         }
        }
        }
-System.out.print(count);
+            System.out.print(count);
 
 
     }
