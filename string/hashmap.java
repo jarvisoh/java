@@ -6,8 +6,7 @@ public static char nonreap(String str)
     Map<Character,Integer> count= new HashMap<>();
 for(char a:str.toCharArray())
 {
-   
-    count.put(a,count.getOrDefault(a,0)+1);
+ count.put(a,count.getOrDefault(a,0)+1);
 }
 for(char a:str.toCharArray())
 {
