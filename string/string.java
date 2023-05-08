@@ -16,7 +16,13 @@ public class Str
         String s1="java by ethnus"; 
         System.out.println(s1.endsWith("s")); //true
         System.out.println(s1.endsWith("ethnus")); //ture
+//
+    //remove
+    //rplace
 
+    
+    
     }
+
 
 }
