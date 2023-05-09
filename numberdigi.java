@@ -22,14 +22,10 @@ if((hig<dig))
 {
     hig=dig;
 //
-
-
-
-  
 }
   n=n/10;
-    }
-      System.out.print(hig);
+}
+System.out.print(hig);
   
 }
 

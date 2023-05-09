@@ -25,11 +25,6 @@ return '#';
   String str1 = "Helloo";
   char c=nonreap(str1);
     System.out.print(c);
-
-
-
-
-
- }
+}
 
 }

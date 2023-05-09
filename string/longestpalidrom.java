@@ -44,7 +44,8 @@ static int longestPalSubstr(String str)
 			}
 
 			// Palindrome
-			if (flag!=0 && (j - i + 1) > maxLength) {
+			if (flag!=0 && (j - i + 1) > maxLength) 
+			{
 				start = i;
 				maxLength = j - i + 1;
 			}
