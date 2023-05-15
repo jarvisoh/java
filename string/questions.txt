@@ -7,7 +7,7 @@ Round - 2 (45 min)
 - Count the uncommon integer from the two arrays-->over
 - Find repeated words in an string (in lexicographical order)-->ovr
 - Right rotation of the string -->over
-- To find not changing elements in the string 
+- To find not changing elements in the string -->over
 - Removing a particular string -->over
 - Input : num1 (7) & num2(10)  - find the no. of flips  to get another numbers 
  10 ==> 1010
@@ -16,9 +16,9 @@ Output:
 1010
 0111
 
-Totally 3 flips
+Totally 3 flips --over
 
-- Find the maximum number in a row of a matrix
+- Find the maximum number in a row of a matrix  --over
 - Unlock pattern
-- Array based (separate even & odd numbers in a array and print even numbers first and then odd numbers)
+- Array based (separate even & odd numbers in a array and print even numbers first and then odd numbers) --over
 - To find intersection of two circles
