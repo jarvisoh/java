@@ -3,32 +3,27 @@ class js{
 
     public static void main(String[] args)
     {
-int n=56701557;
-int dig,hig=0;
+//int n=3011213;
+int n=
+int r,max=0;
 
-while(n>0)
+while(n>10)
 {
-dig=n%1000;
-//    while (number > 0) {
-//             digit = number % 10;
-//             if (digit > maxDigit && digit <= 9) {
-//                 maxDigit = digit;
-//             }
-//             number /= 10;
-// }
+r=n%1000;
 
 
-if((hig<dig))
+if((r>max)&&(r%2!=0))
 {
-    hig=dig;
-//
+    max=r;
+
 }
   n=n/10;
 }
-System.out.print(hig);
+System.out.print(max);
   
 }
 
        
 
 }
+

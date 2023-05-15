@@ -1,0 +1,21 @@
+Divum Corporate Services Pvt
+————————
+Round - 2 (45 min)
+ 
+- Only 2 questions on basic programming
+- From the string array  - How many strings are present more than 1 times and print it in ascending order-->over
+- Count the uncommon integer from the two arrays-->over
+- Find repeated words in an string (in lexicographical order)
+- Right rotation of the string
+- To find not changing elements in the string
+- Removing a particular string 
+- Input : num1 (7) & num2(10)  - find the no. of flips  to get another numbers 
+ 10 ==> 1010
+        07 ==> 0111
+Output: 
+Totally 3 flips
+
+- Find the maximum number in a row of a matrix
+- Unlock pattern
+- Array based (separate even & odd numbers in a array and print even numbers first and then odd numbers
+- To find intersection of two circles
