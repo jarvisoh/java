@@ -21,9 +21,9 @@ class js{
             {
                 if((int)ks[i]==(int)sk[j])
                 {
-  ks[i]='0';
-  sk[j]='0';
-                  }
+                ks[i]='0';
+                sk[j]='0';
+                }
 
 
             }

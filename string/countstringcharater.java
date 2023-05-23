@@ -15,7 +15,7 @@ len = str.length();
 // loop through the string and count frequency of every character and store it in counter array  
 for (i = 0; i < len; i++)   
 {  
-    // System.out.print("=>"+(int)str.charAt(i)+" ")q;
+    System.out.print("=>"+(int)str.charAt(i)+" ");
 counter[(int) str.charAt(i)]++;  
 }  
 

@@ -1,4 +1,4 @@
-      import java.util.*;
+import java.util.*;
 public class Str 
 {
 
@@ -46,13 +46,8 @@ count=2;
             System.out.print(js[i]);
         }
     }
-
-
 }
 
-
-
  }
-
 
 }
